@@ -65,11 +65,7 @@ ___
 
 # 1. Compiling and Running
 
-???
-
-
-
-
+To run a python file, you just need to press the run button at the top of the replit program. This will also compile the code, letting you know if there are any errors. 
 
 ___
 
@@ -79,15 +75,24 @@ ___
 
 # 2. Data Types
 
-???
-
-```LANGUAGE_HERE
-
-```
-
-
-
-
+**Numeric Data Types:**
+- Int: Positive or negative whole numbers without fractions or decimal points. Python has no limit on how long
+  an integer can be. 
+- Float: 
+- Complex
+**String Data Types:**
+- String
+**Sequence Data Types:**
+- List
+- Tuple
+- Range
+**Mapping Data Type:**
+- Dict
+**Boolean Data Type:**
+- Bool
+**Set Data Types:**
+- Set
+- Frozeenset
 
 ___
 
