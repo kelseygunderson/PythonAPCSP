@@ -4,16 +4,7 @@
 
 Kelsey Gunderson
 
-<!-- This is a comment (which will not be displayed in the live file);
-replace all "???" with your own text. -->
-
-
-
-
 ___
-
-
-
 
 
 <h1>Table of Contents</h1>
@@ -54,73 +45,75 @@ ___
 - [25. Advanced Language Features](#25-advanced-language-features)
 -->
 
-
-
-
 ___
-
-
-
 
 
 # 1. Compiling and Running
 
-To run a python file, you just need to press the run button at the top of the replit program. This will also compile the code, letting you know if there are any errors. 
+To run a Python file, you just need to press the run button at the top of the Replit program. This will also compile the code, letting you know if there are any errors. 
+
+You can also run the file by typing "python (file).py" in the console. 
+
 
 ___
-
-
-
 
 
 # 2. Data Types
 
 **Numeric Data Types:**
-- Int: Positive or negative whole numbers without fractions or decimal points. Python has no limit on how long
-  an integer can be. 
-- Float: 
-- Complex
+- Int: Positive or negative whole numbers without fractions or decimal points. To cast: int(var)
+- Float: Positive or negative numbers with fractions or decimal points. To cast: float(var)
 **String Data Types:**
-- String
-**Sequence Data Types:**
-- List
-- Tuple
-- Range
-**Mapping Data Type:**
-- Dict
+- String: Sequence of characters. To cast: str(var)
 **Boolean Data Type:**
-- Bool
-**Set Data Types:**
-- Set
-- Frozeenset
+- Bool: Hold true and false values.
+**Storing Collections of Data:**
+- List: Used to store multiple items in a single variable. This variable is changeable, ordered, and allows duplicate values. 
+      (thislist = ["apple", "banana", "cherry"])
+- Tuple: Used to store multiple items in a single variable. This variable is unchangeable and ordered. 
+      (mytuple = ("apple", "banana", "cherry")
+- Set: Used to store multiple items in a single variable. This variable is unordered, unchangeable (items can be added and removed), and unindexed.
+      myset = {"apple", "banana", "cherry"}
+- Dictionary: Used to store data values in pairs. This variable doesn't allow duplicates, is changeable, and as of Python 3.7, it is ordered. 
+      thisdict = {
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1964
+      }
+      
+You do not declare a variable type when making a new variable. 
+You would just say:
+a = "apple" 
+or
+b = 5
 
 ___
-
-
-
 
 
 # 3. Console I/O
 
-???
 
+To print, you can use print(var).
 
-
+You can separate different variables by a comma or by a plus sign. 
+print(x, y, z) or print(x + y + z). Only use the latter if you want to add the variables together or if the variables are not number values. 
+To print words, put them in parentheses. 
+print("Cool)
+Printing "\n" will start a new line. 
 
 
 ___
 
 
-
-
-
 # 4. Arithmetic Operations
 
-???
-
-
-
-
+"+" - Addition 
+"-" - Subtraction 
+"*" - Multiplication 
+"/" = Division 
+"%" = Modulus 
+"**" = Exponention
+"//" = Floor Division
 
 ___
 
