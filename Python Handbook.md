@@ -63,7 +63,7 @@ ___
 **Numeric Data Types:**
 - Int: Positive or negative whole numbers without fractions or decimal points. To cast: int(var)
 - Float: Positive or negative numbers with fractions or decimal points. To cast: float(var)
-**String Data Types:**
+- **String Data Types:**
 - String: Sequence of characters. To cast: str(var)
 **Boolean Data Type:**
 - Bool: Hold true and false values.
