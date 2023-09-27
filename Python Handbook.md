@@ -96,9 +96,9 @@ ___
 To print, you can use print(var).
 
 You can separate different variables by a comma or by a plus sign. 
-print(x, y, z) or print(x + y + z). Only use the latter if you want to add the variables together or if the variables are not number values. 
+- print(x, y, z) or print(x + y + z). Only use the latter if you want to add the variables together or if the variables are not number values. 
 To print words, put them in parentheses. 
-print("Cool)
+- print("Cool)
 Printing "\n" will start a new line. 
 
 
@@ -123,7 +123,6 @@ ___
 
 # 5. Assignment Operations
 
-???
 
 
 
