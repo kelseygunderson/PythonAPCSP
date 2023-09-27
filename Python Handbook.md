@@ -60,14 +60,14 @@ ___
 
 # 2. Data Types
 
-<h1>**Numeric Data Types:**</h1>
+<h3>**Numeric Data Types:**</h3>
 - Int: Positive or negative whole numbers without fractions or decimal points. To cast: int(var)
 - Float: Positive or negative numbers with fractions or decimal points. To cast: float(var)
-<h1>- **String Data Types:**</h1>
+<h3>- **String Data Types:**</h3>
 - String: Sequence of characters. To cast: str(var)
-<h1>**Boolean Data Type:**</h1>
+<h3>**Boolean Data Type:**</h3>
 - Bool: Hold true and false values.
-<h1>**Storing Collections of Data:**</h1>
+<h3>**Storing Collections of Data:**</h3>
 - List: Used to store multiple items in a single variable. This variable is changeable, ordered, and allows duplicate values. 
       (thislist = ["apple", "banana", "cherry"])
 - Tuple: Used to store multiple items in a single variable. This variable is unchangeable and ordered. 
@@ -107,13 +107,13 @@ ___
 
 # 4. Arithmetic Operations
 
-<h1>"+" - Addition </h1>
-<h1>"-" - Subtraction  </h1>
-<h1>"*" - Multiplication  </h1>
-<h1>"/" = Division  </h1>
-<h1>"%" = Modulus  </h1>
-<h1>"**" = Exponention </h1>
-<h1>"//" = Floor Division </h1>
+<h3>"+" - Addition</h3>
+<h3>"-" - Subtraction</h3>
+<h3>"*" - Multiplication  </h3>
+<h3>"/" = Division </h3>
+<h3>"%" = Modulus </h3>
+<h3>"**" = Exponention </h3>
+<h3>"//" = Floor Division </h3>
 
 ___
 
